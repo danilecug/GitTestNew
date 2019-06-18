@@ -22,11 +22,6 @@ This is third setence that zhizhong added.
 
 This is fourth setence that zhizhong added. 
 
-<<<<<<< HEAD
 
 ## This is the dev.0.0.2.branch.
 first commit for the dev.0.0.2 branch. 
-=======
-## This is the dev.0.0.1 branch.
-first commits at the dev.0.0.1 branch. 
->>>>>>> 057cfcb0c41408cb3e5ff8bf10809b4a8c464ce9
